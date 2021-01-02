@@ -4,7 +4,6 @@ import com.echo.nnbw.dao.MsgDao;
 import com.echo.nnbw.entity.Msg;
 import com.echo.nnbw.service.MsgService;
 import com.echo.nnbw.vo.MsgVo;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

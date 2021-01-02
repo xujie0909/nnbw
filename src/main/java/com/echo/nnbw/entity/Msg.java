@@ -16,6 +16,11 @@ public class Msg extends BaseEntity {
     private String userId;
 
     /**
+     * 自生成帖子ID
+     */
+    private String msgId;
+
+    /**
      * 消息内容
      */
     private String content;
